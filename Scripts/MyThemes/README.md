@@ -1,6 +1,8 @@
-LinuxTheme
+# LinuxTheme
+
+### 本人在网上找的自认为好看的主题搭配的，在Ubuntu14.04到16.04都测试可用（16.10主题显示有差异），其他Linux请参考脚本自行实现，欢迎Pull Requests!
+
 ===========================
-本人在网上找的自认为好看的主题搭配的，在Ubuntu14.04到16.04都测试可用（16.10主题显示有差异），其他Linux请参考脚本自行实现，欢迎Pull Requests!
 
 ### 主题是 Flatabulous
 ### 图标是 Paper
@@ -13,12 +15,12 @@ LinuxTheme
 #### 通过 curl
 
 ```shell
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/Omico/LinuxTheme/master/MyThemes.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/Omico/OhMyScripts/master/Scripts/MyThemes/MyThemes.sh)"
 ```
 
 #### 通过 wget
 
 ```shell
-sh -c "$(wget https://raw.githubusercontent.com/Omico/LinuxTheme/master/MyThemes.sh -O -)"
+sh -c "$(wget https://raw.githubusercontent.com/Omico/OhMyScripts/master/Scripts/MyThemes/MyThemes.sh -O -)"
 ```
 
